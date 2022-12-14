@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Githubber343
-- 👀 I’m interested in scripting and coding on roblox
-- 🌱 I’m currently learning how to code on roblox
+- 👀 I’m interested in scripting and coding on steam or epic games
+- 🌱 I’m currently learning how to code on steam or epic games
 - 💞️ I’m looking to collaborate on my game
 - 📫 How to reach me ritvarsirpro@inbox.lv
 
